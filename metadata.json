@@ -1,0 +1,7 @@
+{
+  "name": "Live Tutor",
+  "description": "A real-time, voice-first language learning application powered by Gemini 2.5 Live API. Practice speaking naturally with an AI tutor in multiple languages and scenarios.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
